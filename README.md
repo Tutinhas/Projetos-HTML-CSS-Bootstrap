@@ -1,2 +1,2 @@
-# Projetos / HTML / CSS / Bootstrap
-Projetos em HTML / CSS / Bootstrap
+# Projetos / HTML / CSS / JavaScript / Bootstrap
+Projetos em HTML / CSS / JavaScript / Bootstrap
